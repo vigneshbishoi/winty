@@ -1,0 +1,24 @@
+{
+    "translation": {
+        "login_text": "Войдите в свою учетную запись",
+        "email": "Электронная почта",
+        "password": "Пароль",
+        "sign_in": "Войти",
+        "sign_up": "Зарегистрироваться",
+        "do_not_have_account": "У вас нет аккаунта?",
+        "create_account": "Создайте свою учетную запись",
+        "first_name": "Имя",
+        "last_name": "Фамилия",
+        "confirm_password": "Подтверждать Пароль",
+        "email_OTP": "Электронная почта otp подтвердить",
+        "forgot_password": "Забыли пароль?",
+        "submit": "Отправить",
+        "email_enter": "Введите адрес электронной почты",
+        "language": "Язык",
+        "save": "Сохранить",
+        "change_language": "Изменить язык",
+        "change_password": "Изменить пароль",
+        "old_password": "Старый пароль",
+        "new_password": "Новый пароль"
+    }
+}

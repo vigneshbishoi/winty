@@ -1,0 +1,24 @@
+{
+    "translation": {
+        "login_text": "تسجيل الدخول إلى حسابك",
+        "email": "البريد الإلكتروني",
+        "password": "كلمة المرور",
+        "sign_in": "تسجيل الدخول",
+        "sign_up": "اشتراك",
+        "do_not_have_account": "ليس لديك حساب؟",
+        "create_account": "أنشئ حسابك",
+        "first_name": "الاسم الاول",
+        "last_name": "الكنية",
+        "confirm_password": "تأكيد كلمة المرور",
+        "email_OTP": "التحقق من البريد الإلكتروني ",
+        "forgot_password": "نسيت رقمك السري؟",
+        "submit": "إرسال",
+        "email_enter": "أدخل بريدك الإلكتروني",
+        "language": "لغة",
+        "save": "يحفظ",
+        "change_language": "تغيير اللغة",
+        "change_password": "غير كلمة السر",
+        "old_password": "كلمة المرور القديمة",
+        "new_password": "كلمة السر الجديدة"
+    }
+}

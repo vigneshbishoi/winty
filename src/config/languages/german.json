@@ -1,0 +1,24 @@
+{
+    "translation": {
+        "login_text": "Melde dich in deinem Konto an",
+        "email": "Email",
+        "password": "Passwort",
+        "sign_in": "Einloggen",
+        "sign_up": "Anmeldung",
+        "do_not_have_account": "Sie haben kein Konto?",
+        "create_account": "Erstelle deinen Account",
+        "first_name": "Vorname",
+        "last_name": "Nachname",
+        "confirm_password": "Passwort bestätigen",
+        "email_OTP": "E-Mail-OTP-Bestätigung",
+        "forgot_password": "Haben Sie Ihr Passwort vergessen?",
+        "submit": "Einreichen",
+        "email_enter": "Geben sie ihre E-Mail Adresse ein",
+        "language": "Sprache",
+        "save": "Speichern",
+        "change_language": "Sprache ändern",
+        "change_password": "Passwort ändern",
+        "old_password": "Altes Passwort",
+        "new_password": "Neues Passwort"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "translation": {
+        "login_text": "Accedi al tuo account",
+        "email": "E-mail",
+        "password": "Password",
+        "sign_in": "Accedi",
+        "sign_up": "Iscriviti",
+        "do_not_have_account": "Non hai un account?",
+        "create_account": "Crea il tuo account",
+        "first_name": "Nome",
+        "last_name": "Cognome",
+        "confirm_password": "Confermare Password",
+        "email_OTP": "Verifica tramite e-mail",
+        "forgot_password": "Ho dimenticato il tuo parola d'ordine?",
+        "submit": "Invia",
+        "email_enter": "Inserisci la tua email",
+        "language": "Lingua",
+        "save": "Salva",
+        "change_language": "Cambia lingua",
+        "change_password": "Cambia la password",
+        "old_password": "Vecchia password",
+        "new_password": "Nuova password"
+    }
+}

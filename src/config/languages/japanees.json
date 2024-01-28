@@ -1,0 +1,24 @@
+{
+    "translation": {
+        "login_text": "アカウントにログイン",
+        "email": "メール",
+        "password": "パスワード",
+        "sign_in": "サインイン",
+        "sign_up": "サインアップ",
+        "do_not_have_account": "アカウントをお持ちでない場合",
+        "create_account": "アカウントを作成",
+        "first_name": "名",
+        "last_name": "姓",
+        "confirm_password": "確認 パスワード",
+        "email_OTP": "電子メール otp 検証",
+        "forgot_password": "あなたのことを忘れた パスワード？",
+        "submit": "送信",
+        "email_enter": "メールアドレスを入力してください",
+        "language": "言語",
+        "save": "保存",
+        "change_language": "言語の変更",
+        "change_password": "パスワードを変更する",
+        "old_password": "以前のパスワード",
+        "new_password": "新しいパスワード"
+    }
+}

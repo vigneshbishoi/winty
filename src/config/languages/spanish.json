@@ -1,0 +1,24 @@
+{
+    "translation": {
+        "login_text": "Inicie sesión en su cuenta",
+        "email": "Correo electrónico",
+        "password": "Contraseña",
+        "sign_in": "Iniciar sesión",
+        "sign_up": "Regístrate",
+        "do_not_have_account": "¿No tienes una cuenta?",
+        "create_account": "Crea tu cuenta",
+        "first_name": "Nombre",
+        "last_name": "Apellido",
+        "confirm_password": "Confirmar Contraseña",
+        "email_OTP": "Correo electrónico otp verificar",
+        "forgot_password": "Ha olvidado su ¿clave?",
+        "submit": "Enviar",
+        "email_enter": "Ingrese su correo electrónico",
+        "language": "Idioma",
+        "save": "Guardar",
+        "change_language": "Cambiar idioma",
+        "change_password": "Cambia la contraseña",
+        "old_password": "Contraseña anterior",
+        "new_password": "Nueva contraseña"
+    }
+}

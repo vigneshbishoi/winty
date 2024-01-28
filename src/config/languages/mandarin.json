@@ -1,0 +1,24 @@
+{
+    "translation": {
+        "login_text": "登录到您的帐户",
+        "email": "电子邮件",
+        "password": "密码",
+        "sign_in": "登入",
+        "sign_up": "报名",
+        "do_not_have_account": "没有帐户？",
+        "create_account": "创建您的帐户",
+        "first_name": "名",
+        "last_name": "姓",
+        "confirm_password": "确认密码",
+        "email_OTP": "电子邮件 otp 验证",
+        "forgot_password": "忘记密码了吗？",
+        "submit": "提交",
+        "email_enter": "输入你的电子邮箱",
+        "language": "语",
+        "save": "节省",
+        "change_language": "改变语言",
+        "change_password": "更改密码",
+        "old_password": "旧密码",
+        "new_password": "新密码"
+    }
+}

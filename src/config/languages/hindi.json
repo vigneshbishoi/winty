@@ -1,0 +1,24 @@
+{
+    "translation": {
+        "login_text": "अपने अकाउंट में लॉग इन करें",
+        "email": "ईमेल",
+        "password": "पासवर्ड",
+        "sign_in": "साइन इन करें",
+        "sign_up": "साइन अप करें",
+        "do_not_have_account": "खाता नहीं है?",
+        "create_account": "अपना खाता बनाएं",
+        "first_name": "पहला नाम",
+        "last_name": "उपनाम",
+        "confirm_password": "पासवर्ड की पुष्टि कीजिये",
+        "email_OTP": "ईमेल ओटीपी सत्यापित करें",
+        "forgot_password": "पासवर्ड भूल गए हैं?",
+        "submit": "प्रस्तुत करना",
+        "email_enter": "अपना ईमेल दर्ज करें",
+        "language": "भाषा",
+        "save": "बचाना",
+        "change_language": "भाषा बदलो",
+        "change_password": "पासवर्ड बदलें",
+        "old_password": "पुराना पासवर्ड",
+        "new_password": "नया पासवर्ड"
+    }
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>557949560765-oj0nis5odvq129rbdd2ouvedk1usfr2b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.557949560765-oj0nis5odvq129rbdd2ouvedk1usfr2b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDqSVV9AoXzOOWxjtB2ts-hZABzS-WNJeM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>557949560765</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.winty</string>
+	<key>PROJECT_ID</key>
+	<string>dev-winty</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dev-winty.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:557949560765:ios:2273c3fae0d1b21e6354d4</string>
+	<key>DATABASE_URL</key>
+	<string>https://dev-winty-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
